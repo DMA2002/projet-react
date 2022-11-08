@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8745c57e.css",
+    "main.js": "/static/js/main.f8e30f7e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/secour.jpg": "/static/media/secour.60d37cf58e3bff9fb27c.jpg",
+    "static/media/sante.png": "/static/media/sante.e92f23d00c371939019b.png",
+    "static/media/histo.jpg": "/static/media/histo.84010c8532459f7fbd61.jpg",
+    "static/media/enregistrement.png": "/static/media/enregistrement.9223f97ec3af1a008c9e.png",
+    "static/media/sante.jpg": "/static/media/sante.b464622806c720ff4731.jpg",
+    "static/media/isto.png": "/static/media/isto.7bb44eaa90764cc3f93d.png",
+    "static/media/rendez.jpg": "/static/media/rendez.33bd413146dd77759e5e.jpg",
+    "static/media/scane.jpg": "/static/media/scane.53a9b0f7837b889d779c.jpg",
+    "static/media/voire.png": "/static/media/voire.8ffdabd6f87849dba92b.png",
+    "static/media/scan.jpg": "/static/media/scan.09fee473550fd88a6bc1.jpg",
+    "static/media/log.svg": "/static/media/log.79872296556418253ca4b3289f856112.svg",
+    "static/media/masan.svg": "/static/media/masan.1e5e0d9aca83cd806d295cea436b259a.svg",
+    "index.html": "/index.html",
+    "main.8745c57e.css.map": "/static/css/main.8745c57e.css.map",
+    "main.f8e30f7e.js.map": "/static/js/main.f8e30f7e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8745c57e.css",
+    "static/js/main.f8e30f7e.js"
+  ]
+}
